@@ -46,7 +46,9 @@ Similarly, a JWT token is issued after authentication and used to validate subse
 A JWT consists of three parts:  
 1. **Header**: Contains metadata like the token type (`JWT`) and signing algorithm (`HS256`).  
 2. **Payload**: Holds the claims or data (e.g., user ID, roles).  
-3. **Signature**: Ensures the token hasn’t been tampered with using a cryptographic signature.  
+3. **Signature**: Ensures the token hasn’t been tampered with using a cryptographic signature.
+<img src="https://res.cloudinary.com/dwelabpll/image/upload/v1738071361/Screenshot_2025-01-28_193523_okigft.png" style="border-radius: 15px;">
+
 
 JWT looks like this:  
 
