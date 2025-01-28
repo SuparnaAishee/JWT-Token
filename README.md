@@ -1,4 +1,5 @@
 # 🌟 Understanding JWT (JSON Web Token)  
+<img src="https://res.cloudinary.com/dwelabpll/image/upload/v1738071011/Screenshot_2025-01-28_192623_pxbhx6.png" style="border-radius: 15px;">
 
 Welcome to my **JWT (JSON Web Token)** presentation repository! This project is a beginner-friendly resource to help you understand the magic of JWTs and how they enable secure communication in modern web applications.  
 
