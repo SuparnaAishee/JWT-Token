@@ -27,8 +27,9 @@ JWT offers several advantages:
 1. **The Server** creates and signs a JWT using a secret key.  
 2. **The Client** stores the token (in cookies or local storage).  
 3. **On Each Request**, the client sends the token back to the server.  
-4. **The Server** verifies the token to ensure the request is authenticated.  
-
+4. **The Server** verifies the token to ensure the request is authenticated.
+5. 
+<img src="https://res.cloudinary.com/dwelabpll/image/upload/v1738071192/Screenshot_2025-01-28_193239_twr0bc.png" style="border-radius: 15px;">
 ---
 
 ## 🖼 Real-Life Analogy  
