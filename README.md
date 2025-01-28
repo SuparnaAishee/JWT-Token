@@ -84,7 +84,7 @@ JWT is ideal for:
 ---
 
 ## 📂 Files Included  
-- `JWT_Presentation.pdf`: The complete slide deck explaining JWT.  
+- `JWT_Presentation.pptx`: The complete slide deck explaining JWT.  
 
 ---
 
